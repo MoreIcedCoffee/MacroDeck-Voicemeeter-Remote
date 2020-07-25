@@ -3,5 +3,4 @@ Personal python scripts for controlling voicemeeter through Macro Deck, or any o
 
 Requirements 
 - Voicemeeter-remote-python
-How to install:
-- https://github.com/Freemanium/voicemeeter-remote-python
+How to install: https://github.com/Freemanium/voicemeeter-remote-python
