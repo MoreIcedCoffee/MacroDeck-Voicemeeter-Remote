@@ -8,5 +8,5 @@ Requirements
 
 Where to find Voicemeeter: https://www.vb-audio.com/Voicemeeter/
 
-How to install Voicemeeter-remote: https://github.com/Freemanium/voicemeeter-remote-python
+How to install Voicemeeter-remote and use it: https://github.com/Freemanium/voicemeeter-remote-python
 
